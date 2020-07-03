@@ -1,2 +1,2 @@
 # OOinC
-Explorando programação orientada a objecto com a linguagem C
+Explorando programação orientada a objeto com a linguagem C.
